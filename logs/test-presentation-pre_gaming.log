@@ -1,0 +1,9 @@
+Scenario - 
+Logfile written - 12/07/2015 12:30:32
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test-presentation	2	Picture	+	50331	0	1	15833	2	0	15690	other	0
+test-presentation	4	Picture	+	107662	0	2	17166	4	0	17040	other	0
+test-presentation	6	Picture	+	166160	0	2	18500	3	0	18450	other	0
+test-presentation	7	Quit		209060	23400

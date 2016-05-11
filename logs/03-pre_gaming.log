@@ -1,0 +1,14 @@
+Scenario - 
+Logfile written - 11/30/2015 18:55:47
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+03	2	Picture	+	50206	0	1	16680	2	0	16560	other	0
+03	3	Picture	pos_1.jpg	68221	0	1	40032	2	0	40000	other	0
+03	4	Picture	+	108419	0	2	18849	3	0	18720	other	0
+03	5	Picture	neu_27.jpg	128269	0	1	40032	2	0	40000	other	0
+03	6	Picture	+	168468	0	1	15679	2	0	15570	other	0
+03	7	Picture	neg_4.jpg	184961	0	188	40052	189	0	40000	other	0
+03	8	Picture	+	225180	0	1	17347	2	0	17230	other	0
+03	9	Picture	neu_9.jpg	243361	0	1	23125	2	0	40000	other	0
+03	9	Quit		265226	21865
